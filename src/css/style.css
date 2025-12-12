@@ -50,3 +50,12 @@ body {
 .conteiner-list:hover .novaLista {
   color: #1f4cff;
 }
+.description {
+  color: #9ca3af;
+  transition: color 0.3s ease;
+}
+
+.conteiner-list:hover .description {
+  color: #374151;
+  font-weight: 600;
+}
